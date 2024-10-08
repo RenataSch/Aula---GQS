@@ -8,7 +8,7 @@ Exercícios da aula de Gestão e Qualidade de Software com o propósito de demon
 ## Descrição do projeto
   - **Neste repositório estarão contidos exercícios e projetos orientados pelo professor Randerson Melville da faculdade Unisociesc Blumenau.**    
 
-> Ferramentas utilizadas: Cypress.
+> Ferramentas utilizadas: Cypress e Robot Framework.
 
 #### Renata Schramm
  <div>
